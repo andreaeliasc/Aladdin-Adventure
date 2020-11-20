@@ -5,5 +5,5 @@
         <p>Presione para ver el manual de juego: <a href="https://github.com/eli17048/Aladdin-Adventure/blob/main/Manual.pdf">Download PDF</a>.</p>
     </embed>
 </object>
-
+![](cover.png)
 ![](Agrabah.gif)
